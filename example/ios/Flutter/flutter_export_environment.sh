@@ -1,9 +1,9 @@
 #!/bin/sh
 # This is a generated file; do not edit or check into version control.
-export "FLUTTER_ROOT=/Users/amr/fvm/versions/stable"
-export "FLUTTER_APPLICATION_PATH=/Users/amr/Desktop/record_mp3_plus/example"
+export "FLUTTER_ROOT=C:\Users\Thunder5torm\Documents\flutter_sdk\flutter"
+export "FLUTTER_APPLICATION_PATH=C:\Users\Thunder5torm\Documents\GitHub\record_mp3_plus\example"
 export "COCOAPODS_PARALLEL_CODE_SIGN=true"
-export "FLUTTER_TARGET=lib/main.dart"
+export "FLUTTER_TARGET=lib\main.dart"
 export "FLUTTER_BUILD_DIR=build"
 export "FLUTTER_BUILD_NAME=1.0.0"
 export "FLUTTER_BUILD_NUMBER=1"
